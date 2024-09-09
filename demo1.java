@@ -4,7 +4,6 @@ public class demo1
     {
         demo1 d = new demo1();
         d.m1();
-
     }
     public void m1()
     {
