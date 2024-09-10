@@ -10,6 +10,7 @@ public class Palindrome {
         } else {
             System.out.println(num + " is not a palindrome.");
         }
+        sc.close();
     }
 
     public static boolean isPalindrome(int num) {

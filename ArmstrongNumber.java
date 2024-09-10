@@ -7,6 +7,8 @@ public class ArmstrongNumber
         System.out.print("Enter a number to check whether number is Armstrong or not :");
         int num = sc.nextInt();
         System.out.println(findArmstrong(num));
+
+        sc.close();
     }
 
     public static boolean findArmstrong(int num)
