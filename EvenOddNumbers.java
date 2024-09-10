@@ -20,12 +20,7 @@ public class EvenOddNumbers
             {
                 System.out.print(i+" ");
             }
-        }
-
-
-
-
-        
+        }        
     }
     
 }
